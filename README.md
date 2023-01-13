@@ -1,2 +1,3 @@
 # Meta-Coding-Puzzles
-Solutions to meta coding puzzles
+Solutions to [Meta Coding Puzzles](https://www.metacareers.com/profile/coding_puzzles)
+
